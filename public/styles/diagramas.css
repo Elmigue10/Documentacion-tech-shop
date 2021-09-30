@@ -1,0 +1,44 @@
+body{
+    background: #222222;
+    color: white;
+}
+
+p{
+    font-size:1.2vw;
+}
+
+a{
+    color: white;
+}
+
+.diagramas{
+    margin: 0 auto;
+    margin-top: 5vw;
+    width: 42vw;
+}
+
+.diagrama{
+    background: #333333;
+    width: 45vw;
+    height: 28vw;
+    margin-top: 3vw;
+    text-align: center;
+    border-radius: 1.5vw;
+}
+
+.diagrama:nth-child(2){
+    height: 33vw;
+}
+
+.diagrama:nth-child(3){
+    height: 29vw;
+}
+
+.diagrama-title{
+    position: relative;
+    top: 1.5vw;
+}
+
+.diagrama img{
+    margin-top: 2vw;
+}

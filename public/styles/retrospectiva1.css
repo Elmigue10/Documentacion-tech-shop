@@ -1,0 +1,50 @@
+body{
+    background: #222222;
+    color: white;
+}
+
+p{
+    font-size:1.2vw;
+}
+
+a{
+    color: white;
+}
+table{
+    width:50vw;
+    margin: 0 auto;
+}
+
+thead{
+    font-size: 2vw;
+}
+
+th{
+    border: 1px solid;
+    border-radius: 1vw;
+}
+
+tbody{
+    font-size:1.2vw;
+    text-align:center;    
+}
+
+td{
+    border: 1px solid;
+    border-radius: 1vw;
+    
+}
+
+.title{
+    width: 19.5vw;
+    margin: 0 auto;
+}
+
+.retrospectiva{
+    background: #333333;
+    margin: 0 auto;
+    width: 55vw;
+    height: 12vw;
+    padding: 1vw;
+    border-radius: 2vw;
+}
